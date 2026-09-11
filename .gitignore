@@ -1,0 +1,13 @@
+# ── Keil MDK 编译产物 ──
+MDK-ARM/STM32BalanceCarProject_V4.0/
+*.uvguix.*
+EventRecorderStub.scvd
+
+# ── Simulink 代码生成缓存(可重新生成) ──
+SimulinkModel/slprj/
+SimulinkModel/BalanceCar_ert_rtw/*.mat
+SimulinkModel/BalanceCar_ert_rtw/*.dmr
+SimulinkModel/BalanceCar_ert_rtw/tmwinternal/
+
+# ── 通用 ──
+*.bak
